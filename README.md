@@ -1,7 +1,7 @@
-# Student Management System  
+# Task Manager  
 
 ## 🔗 Live Demo  
-[![Vercel](https://img.shields.io/badge/View-Live%20Demo-brightgreen)](https://student-management-system-lilac-zeta.vercel.app/)  
+[![Vercel](https://img.shields.io/badge/View-Live%20Demo-brightgreen)](hackathon-rosy-two.vercel.app)  
 
 ## ✨ Features  
 
@@ -12,10 +12,10 @@
 - Protected dashboard routes  
 
 ### 📚 Student Management  
-- Add new student records  
-- Edit existing student information  
-- Delete student entries  
-- View all students in sortable table  
+- Add new tasks  
+- Edit existing task information  
+- Delete task entries  
+- View all task in sortable table  
 - Form validation for data integrity  
 
 ### 🎨 User Experience  
