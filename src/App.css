@@ -1071,11 +1071,6 @@ body {
     align-items: center;
   }
 
-  .user-actions {
-    flex-direction: row;
-    align-items: center;
-  }
-
   .form-actions {
     flex-direction: row;
   }
