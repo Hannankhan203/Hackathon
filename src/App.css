@@ -1064,4 +1064,19 @@ body {
     height: 2.5rem;
     border-width: 0.25rem;
   }
+
+  .header-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .user-actions {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .form-actions {
+    flex-direction: row;
+  }
 }
