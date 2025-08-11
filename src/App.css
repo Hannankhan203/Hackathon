@@ -509,7 +509,7 @@ body {
 }
 
 .header-content {
-  max-width: 400px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
@@ -744,7 +744,6 @@ body {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   padding: 1.75rem;
   border: 1px solid #e2e8f0;
-  max-width: 400px;
   /* border: 2px solid black; */
 }
 
@@ -958,6 +957,7 @@ body {
 @media (max-width: 576px) {
   .header-content {
     padding: 0 1rem;
+  max-width: 400px;
   }
 
   .dashboard-header h1 {
@@ -1001,6 +1001,7 @@ body {
 
   .task-list-container {
     padding: 1.25rem;
+  max-width: 400px;
   }
 
   .task-list-container h2 {
